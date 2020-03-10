@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049958102135",
+    "firebase_url": "https://coinotc.firebaseio.com",
+    "project_id": "coinotc",
+    "storage_bucket": "coinotc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049958102135:android:14d4de28ad11914ee18272",
+        "android_client_info": {
+          "package_name": "com.nimbus.coinotc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049958102135-j2f3628g168es836a97g92ll10k044a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimbus.coinotc",
+            "certificate_hash": "0f66a6b1bed9538beb35d3445c11837898271c96"
+          }
+        },
+        {
+          "client_id": "1049958102135-10pfge76gf9hjlmlimgfc9m8g5p32beb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-QaHGb-LYrtWU0wZYTeiam0u1alJ6tOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049958102135-10pfge76gf9hjlmlimgfc9m8g5p32beb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
